@@ -620,30 +620,30 @@
   margin: -379px auto 0 993px;
 }
 
-.u-section-3 .u-text-1 {
-  font-size: 1.25rem;
-  margin: -73px 951px 0 80px;
-}
-
-.u-section-3 .u-text-2 {
-  font-size: 1.875rem;
-  font-weight: 500;
-  margin: 30px 610px 0 80px;
-}
-
 .u-section-3 .u-btn-1 {
   border-style: none;
   font-size: 1.25rem;
   background-image: none;
   font-weight: normal;
-  margin: 79px auto 0 80px;
+  margin: 156px auto 0 80px;
   padding: 17px 54px 19px 53px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.875rem;
+  font-weight: 500;
+  margin: -243px 610px 0 80px;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin: 25px 760px 0 80px;
 }
 
 .u-section-3 .u-text-3 {
   font-size: 1.25rem;
-  font-weight: 300;
-  margin: -122px 760px 60px 80px;
+  margin: -199px 951px 60px 80px;
 }
 
 @media (max-width: 1199px) {
@@ -659,41 +659,41 @@
     margin-left: 829px;
   }
 
+  .u-section-3 .u-btn-1 {
+    margin-top: 157px;
+    margin-left: 52px;
+  }
+
   .u-section-3 .u-text-1 {
     width: auto;
-    margin-top: -63px;
-    margin-right: 772px;
+    margin-top: -239px;
+    margin-right: 441px;
     margin-left: 52px;
   }
 
   .u-section-3 .u-text-2 {
     width: auto;
-    margin-top: 25px;
-    margin-right: 441px;
-    margin-left: 52px;
-  }
-
-  .u-section-3 .u-btn-1 {
-    margin-top: 75px;
+    margin-top: 13px;
+    margin-right: 587px;
     margin-left: 52px;
   }
 
   .u-section-3 .u-text-3 {
     width: auto;
-    margin-top: -130px;
-    margin-right: 587px;
+    margin-top: -182px;
+    margin-right: 772px;
     margin-left: 52px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 709px;
+    min-height: 521px;
   }
 
   .u-section-3 .u-image-1 {
     height: 308px;
-    margin-top: 60px;
+    margin-top: 140px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -701,28 +701,30 @@
 
   .u-section-3 .u-icon-1 {
     margin-top: -308px;
-    margin-left: 609px;
+    margin-right: 0;
+    margin-left: auto;
   }
 
-  .u-section-3 .u-text-1 {
-    margin-top: -82px;
-    margin-right: 575px;
+  .u-section-3 .u-btn-1 {
+    margin-top: 105px;
     margin-left: 35px;
   }
 
-  .u-section-3 .u-text-2 {
-    margin-top: 15px;
+  .u-section-3 .u-text-1 {
+    margin-top: -216px;
     margin-right: 271px;
     margin-left: 35px;
   }
 
-  .u-section-3 .u-btn-1 {
-    margin-top: 52px;
+  .u-section-3 .u-text-2 {
+    margin-right: 384px;
     margin-left: 35px;
   }
 
   .u-section-3 .u-text-3 {
-    margin: -107px 384px 167px 35px;
+    margin-top: -172px;
+    margin-right: 575px;
+    margin-left: 35px;
   }
 }
 
@@ -739,29 +741,28 @@
     margin-left: initial;
   }
 
-  .u-section-3 .u-icon-1 {
-    margin-left: 429px;
-  }
-
-  .u-section-3 .u-text-1 {
-    margin-right: 405px;
-    margin-left: 24px;
-  }
-
-  .u-section-3 .u-text-2 {
-    font-size: 1.5rem;
-    margin-right: 211px;
-    margin-left: 24px;
-  }
-
   .u-section-3 .u-btn-1 {
+    margin-top: 85px;
     margin-left: 24px;
     padding: 14px 25px 15px;
   }
 
-  .u-section-3 .u-text-3 {
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: -189px;
+    margin-right: 211px;
+    margin-left: 24px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 6px;
     margin-right: 215px;
-    margin-bottom: 60px;
+    margin-left: 24px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -145px;
+    margin-right: 405px;
     margin-left: 24px;
   }
 }
@@ -787,32 +788,32 @@
     margin-left: 262px;
   }
 
+  .u-section-3 .u-btn-1 {
+    font-size: 1.125rem;
+    margin-top: 99px;
+    margin-left: 15px;
+    padding: 7px 24px 8px;
+  }
+
   .u-section-3 .u-text-1 {
-    font-size: 0.875rem;
-    margin-top: -55px;
-    margin-right: 228px;
+    font-size: 1rem;
+    font-weight: normal;
+    margin-top: -154px;
+    margin-right: 58px;
     margin-left: 15px;
   }
 
   .u-section-3 .u-text-2 {
     font-size: 1rem;
-    font-weight: normal;
-    margin-top: 27px;
-    margin-right: 58px;
+    margin-top: 8px;
+    margin-right: 101px;
     margin-left: 15px;
-  }
-
-  .u-section-3 .u-btn-1 {
-    font-size: 1.125rem;
-    margin-top: 61px;
-    margin-left: 15px;
-    padding: 7px 24px 8px;
   }
 
   .u-section-3 .u-text-3 {
-    font-size: 1rem;
-    margin-top: -96px;
-    margin-right: 101px;
+    font-size: 0.875rem;
+    margin-top: -120px;
+    margin-right: 228px;
     margin-left: 15px;
   }
 }.u-section-4 .u-sheet-1 {
