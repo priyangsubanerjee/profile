@@ -90,7 +90,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 369px;
+    min-height: 529px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -116,8 +116,8 @@
   .u-section-1 .u-text-1 {
     font-size: 1.25rem;
     margin-top: -227px;
-    margin-right: 189px;
-    margin-left: 56px;
+    margin-right: 209px;
+    margin-left: 36px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 100vh;
@@ -757,13 +757,14 @@
 
   .u-section-2 .u-text-1 {
     font-size: 0.75rem;
-    margin-top: 12px;
+    margin-top: 13px;
     margin-right: 33px;
   }
 
   .u-section-2 .u-text-2 {
     margin-top: -72px;
-    margin-left: 746px;
+    margin-right: -468px;
+    margin-left: 748px;
   }
 
   .u-section-2 .u-shape-1 {
@@ -1009,6 +1010,7 @@
 
   .u-section-3 .u-shape-1 {
     height: 336px;
+    margin-top: 104px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -1017,7 +1019,7 @@
   .u-section-3 .u-icon-1 {
     height: 50px;
     width: 50px;
-    margin-top: -355px;
+    margin-top: -353px;
     margin-right: 0;
   }
 
@@ -1491,12 +1493,12 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 580px;
+    min-height: 100vh;
   }
 
   .u-section-4 .u-shape-1 {
     height: 400px;
-    margin-top: 52px;
+    margin-top: 145px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
