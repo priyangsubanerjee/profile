@@ -315,7 +315,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 100vh;
+    min-height: 50vw;
   }
 
   .u-section-1 .u-shape-1 {
