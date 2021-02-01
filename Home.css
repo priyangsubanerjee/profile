@@ -352,7 +352,7 @@
     height: 156px;
     object-position: 50% 100%;
     margin-top: -274px;
-    margin-left: 92px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-icon-1 {
@@ -1080,13 +1080,14 @@
   }
 
   .u-section-4 .u-text-4 {
-    margin-top: 52px;
-    margin-right: 146px;
-    margin-left: 136px;
+    width: 438px;
+    margin-top: 46px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-4 .u-btn-2 {
-    margin-top: 23px;
+    margin-top: 29px;
     margin-right: auto;
     margin-left: 397px;
   }
@@ -1118,9 +1119,8 @@
 
   .u-section-4 .u-btn-3 {
     font-size: 1.25rem;
-    margin-top: 13px;
-    margin-right: auto;
-    margin-left: 397px;
+    margin-top: 11px;
+    margin-right: 124px;
     padding: 13px 36px 14px 35px;
   }
 }
@@ -1224,13 +1224,13 @@
   .u-section-4 .u-btn-3 {
     margin-top: 27px;
     margin-right: 26px;
-    margin-left: auto;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-shape-1 {
     height: 335px;
+    margin-top: 118px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -1238,7 +1238,7 @@
 
   .u-section-4 .u-shape-2 {
     height: 334px;
-    margin-top: 157px;
+    margin-top: 152px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -1254,14 +1254,14 @@
   .u-section-4 .u-icon-1 {
     height: 70px;
     width: 70px;
-    margin-top: -98px;
+    margin-top: -76px;
     margin-right: -20px;
     margin-left: 290px;
   }
 
   .u-section-4 .u-text-2 {
     font-size: 1rem;
-    margin-top: 47px;
+    margin-top: 25px;
     margin-left: 26px;
     margin-right: 26px;
   }
@@ -1294,6 +1294,7 @@
     margin-top: 25px;
     margin-left: 26px;
     margin-right: 26px;
+    width: auto;
   }
 
   .u-section-4 .u-btn-2 {
@@ -1313,25 +1314,25 @@
 
   .u-section-4 .u-text-5 {
     font-size: 1.5rem;
-    margin-top: -329px;
-    margin-right: 149px;
-    margin-left: 31px;
+    margin-top: -324px;
+    margin-right: 154px;
+    margin-left: 26px;
   }
 
   .u-section-4 .u-icon-3 {
     height: 70px;
     width: 70px;
-    margin-top: -84px;
+    margin-top: -89px;
     margin-right: -20px;
     margin-left: 290px;
   }
 
   .u-section-4 .u-text-6 {
     font-size: 1rem;
-    width: auto;
     margin-top: 45px;
-    margin-right: 17px;
-    margin-left: 31px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: auto;
   }
 
   .u-section-4 .u-btn-3 {
