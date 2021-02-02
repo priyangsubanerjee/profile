@@ -32,13 +32,13 @@
 
 .u-section-1 .u-text-2 {
   font-size: 0.875rem;
-  margin: -320px 330px 0 570px;
+  margin: -318px 330px 0 570px;
 }
 
 .u-section-1 .u-icon-3 {
   height: 83px;
   width: 83px;
-  margin: 202px auto 60px 316px;
+  margin: 200px auto 60px 316px;
 }
 
 @media (max-width: 1199px) {
@@ -65,13 +65,13 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: -325px;
+    margin-top: -324px;
     margin-right: 230px;
     margin-left: 470px;
   }
 
   .u-section-1 .u-icon-3 {
-    margin-top: 207px;
+    margin-top: 206px;
     margin-left: 303px;
   }
 }
