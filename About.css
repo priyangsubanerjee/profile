@@ -503,13 +503,14 @@
 
   .u-section-2 .u-line-2 {
     width: 260px;
-    margin-top: 11px;
+    margin-top: 12px;
+    margin-bottom: -1px;
     margin-left: 0;
   }
 
   .u-section-2 .u-group-4 {
     width: 300px;
-    min-height: 45px;
+    min-height: 46px;
     margin-top: 24px;
     margin-left: 4px;
   }
@@ -535,13 +536,12 @@
 
   .u-section-2 .u-line-3 {
     width: 220px;
-    margin-top: 9px;
-    margin-bottom: 0;
-    margin-left: 0;
+    margin-top: 10px;
+    margin-left: 1px;
   }
 
   .u-section-2 .u-group-5 {
-    min-height: 45px;
+    min-height: 46px;
     width: 300px;
     margin-top: 24px;
     margin-right: 9px;
