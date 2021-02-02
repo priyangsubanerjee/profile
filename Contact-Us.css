@@ -43,12 +43,14 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-icon-1 {
+    height: 422px;
+    width: 422px;
     margin-top: 0;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: -420px;
+    margin-top: -397px;
     margin-right: 321px;
     margin-left: 470px;
   }
@@ -155,7 +157,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 650px;
+    min-height: 673px;
   }
 
   .u-section-1 .u-text-1 {
