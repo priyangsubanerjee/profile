@@ -97,26 +97,26 @@
 }
 
 .u-section-1 .u-image-2 {
-  width: 312px;
-  height: 312px;
+  width: 326px;
+  height: 326px;
   animation-duration: 1000ms;
   background-image: url("images/mobileport2.png");
   background-position: 50% 50%;
-  margin: -365px 40px 0 auto;
+  margin: -397px 40px 0 auto;
 }
 
 .u-section-1 .u-icon-8 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: 0 auto 0 580px;
+  margin: 18px auto 0 580px;
 }
 
 .u-section-1 .u-icon-9 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: -53px auto 0 651px;
+  margin: -53px auto 0 653px;
 }
 
 .u-section-1 .u-icon-10 {
@@ -124,14 +124,14 @@
   width: 53px;
   background-image: none;
   animation-duration: 1000ms;
-  margin: -53px auto 0 508px;
+  margin: -53px auto 0 507px;
 }
 
 .u-section-1 .u-icon-11 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: -54px auto 60px 436px;
+  margin: -53px auto 60px 434px;
 }
 
 @media (max-width: 1199px) {
@@ -441,9 +441,13 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 652px;
+  }
+
   .u-section-1 .u-group-1 {
     min-height: 259px;
-    margin-top: 197px;
+    margin-top: 120px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -511,7 +515,7 @@
     width: 131px;
     height: 131px;
     object-position: 50% 100%;
-    margin-top: -321px;
+    margin-top: -324px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -519,14 +523,14 @@
   .u-section-1 .u-icon-8 {
     height: 50px;
     width: 50px;
-    margin-top: 288px;
+    margin-top: 276px;
     margin-left: 182px;
   }
 
   .u-section-1 .u-icon-9 {
     height: 50px;
     width: 50px;
-    margin-top: -50px;
+    margin-top: -53px;
     margin-left: 109px;
   }
 
@@ -901,7 +905,7 @@
 @media (max-width: 991px) {
   .u-section-3 .u-image-1 {
     width: 720px;
-    min-height: 550px;
+    min-height: 1656px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -936,7 +940,7 @@
 @media (max-width: 767px) {
   .u-section-3 .u-image-1 {
     width: 540px;
-    min-height: 773px;
+    min-height: 2724px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -1236,7 +1240,7 @@
     margin-top: 37px;
   }
 }.u-section-5 .u-sheet-1 {
-  min-height: 100vh;
+  min-height: 864px;
 }
 
 .u-section-5 .u-group-1 {
@@ -1361,10 +1365,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 1159px;
-  }
-
   .u-section-5 .u-group-1 {
     min-height: 393px;
     margin-top: 47px;
