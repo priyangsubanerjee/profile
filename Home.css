@@ -103,14 +103,14 @@
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: 20px auto 0 580px;
+  margin: 20px auto 0 949px;
 }
 
 .u-section-1 .u-icon-8 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: -53px auto 0 653px;
+  margin: -53px auto 0 1022px;
 }
 
 .u-section-1 .u-icon-9 {
@@ -118,14 +118,14 @@
   width: 53px;
   background-image: none;
   animation-duration: 1000ms;
-  margin: -53px auto 0 507px;
+  margin: -53px auto 0 876px;
 }
 
 .u-section-1 .u-icon-10 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: -53px auto 60px 434px;
+  margin: -53px auto 60px 803px;
 }
 
 @media (max-width: 1199px) {
@@ -1175,7 +1175,6 @@
 
   .u-section-4 .u-btn-1 {
     margin-right: 0;
-    margin-bottom: 0;
     margin-left: 0;
   }
 
