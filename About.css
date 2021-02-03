@@ -85,6 +85,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.25rem;
+    margin-top: 11px;
     margin-right: 184px;
     margin-left: 0;
   }
@@ -93,12 +94,12 @@
     width: 121px;
     height: 121px;
     background-position: 50% 50%;
-    margin-top: -121px;
-    margin-left: 85px;
+    margin-top: -132px;
   }
 
   .u-section-1 .u-btn-1 {
     margin-top: 236px;
+    margin-right: auto;
     margin-left: 0;
     padding: 8px 80px 8px 78px;
   }
