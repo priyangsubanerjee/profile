@@ -1365,6 +1365,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1139px;
+  }
+
   .u-section-5 .u-group-1 {
     min-height: 393px;
     margin-top: 47px;
