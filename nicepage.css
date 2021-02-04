@@ -31884,11 +31884,14 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h3
         {
-        font-weight: 400;
-        font-size: 1.875rem;
+        font-size: 2.25rem;
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: Montserrat, sans-serif;
         }
         h4
         {
@@ -32039,6 +32042,13 @@ a.u-link.u-text-hover-grey-90:hover {
         /** cms-rules **/
 
         /** color-rules **/
+        .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > h3,
+        .u-gradient > .u-container-layout > h3,
+        .u-image:not(.u-shading) > .u-container-layout > h3,
+        h3
+        {
+        color: #5530b2;
+        }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
         .u-image:not(.u-shading) > .u-container-layout > a,
@@ -32095,6 +32105,10 @@ a.u-link.u-text-hover-grey-90:hover {
         /** color-rules **/
 
         /** alt-color-rules **/
+        .u-custom-color-1 h3,.u-custom-color-2 h3,.u-custom-color-3 h3,.u-custom-color-4 h3,.u-custom-color-5 h3,.u-custom-color-6 h3,.u-body-color h3,.u-palette-1-base h3,.u-palette-1-dark-3 h3,.u-palette-1-dark-2 h3,.u-palette-1-dark-1 h3,.u-palette-1 h3,.u-palette-1-light-1 h3,.u-palette-2-base h3,.u-palette-2-dark-3 h3,.u-palette-2-dark-2 h3,.u-palette-2-dark-1 h3,.u-palette-2 h3,.u-palette-2-light-1 h3,.u-palette-3-dark-3 h3,.u-palette-3-dark-2 h3,.u-palette-3-dark-1 h3,.u-palette-4-base h3,.u-palette-4-dark-3 h3,.u-palette-4-dark-2 h3,.u-palette-4-dark-1 h3,.u-palette-5-dark-3 h3,.u-palette-5-dark-2 h3,.u-palette-5-dark-1 h3,.u-grey-40 h3,.u-grey-30 h3,.u-grey-90 h3,.u-grey-80 h3,.u-grey-75 h3,.u-black h3,.u-grey-70 h3,.u-grey-60 h3,.u-grey-50 h3,.u-grey-dark-3 h3,.u-grey-dark-2 h3,.u-grey-dark-1 h3,.u-grey h3,.u-shading h3,.u-overlap-contrast .u-header h3:not(.u-nav-link):not(.u-btn)
+        {
+        color: #ffffff;
+        }
         .u-custom-color-1 a,.u-custom-color-2 a,.u-custom-color-3 a,.u-custom-color-4 a,.u-custom-color-5 a,.u-custom-color-6 a,.u-body-color a,.u-palette-1-base a,.u-palette-1-dark-3 a,.u-palette-1-dark-2 a,.u-palette-1-dark-1 a,.u-palette-1 a,.u-palette-1-light-1 a,.u-palette-2-base a,.u-palette-2-dark-3 a,.u-palette-2-dark-2 a,.u-palette-2-dark-1 a,.u-palette-2 a,.u-palette-2-light-1 a,.u-palette-3-dark-3 a,.u-palette-3-dark-2 a,.u-palette-3-dark-1 a,.u-palette-4-base a,.u-palette-4-dark-3 a,.u-palette-4-dark-2 a,.u-palette-4-dark-1 a,.u-palette-5-dark-3 a,.u-palette-5-dark-2 a,.u-palette-5-dark-1 a,.u-grey-40 a,.u-grey-30 a,.u-grey-90 a,.u-grey-80 a,.u-grey-75 a,.u-black a,.u-grey-70 a,.u-grey-60 a,.u-grey-50 a,.u-grey-dark-3 a,.u-grey-dark-2 a,.u-grey-dark-1 a,.u-grey a,.u-shading a,.u-overlap-contrast .u-header a:not(.u-nav-link):not(.u-btn)
         {
         color: #adcce9;
