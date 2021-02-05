@@ -1135,6 +1135,7 @@
 .u-section-4 .u-group-4 {
   width: 70px;
   height: auto;
+  min-height: 70px;
   margin: 123px 0 0 auto;
 }
 
@@ -1143,9 +1144,9 @@
 }
 
 .u-section-4 .u-icon-2 {
-  height: 20px;
-  width: 20px;
-  margin: 0 auto;
+  height: 40px;
+  width: 40px;
+  margin: 15px auto 0;
 }
 
 .u-section-4 .u-group-5 {
@@ -1729,7 +1730,7 @@
 
   .u-section-6 .u-group-2 {
     min-height: 390px;
-    margin-top: 169px;
+    margin-top: -347px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -2510,7 +2511,6 @@
     margin-top: 12px;
     margin-left: 2px;
     margin-right: 2px;
-    width: auto;
   }
 
   .u-section-7 .u-group-8 {
