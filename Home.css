@@ -1858,7 +1858,8 @@
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   animation-duration: 1000ms;
-  margin: 132px auto 0;
+  height: auto;
+  margin: 139px auto 0;
 }
 
 .u-section-7 .u-container-layout-5 {
@@ -1933,7 +1934,8 @@
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   animation-duration: 1000ms;
-  margin: 132px auto 60px;
+  height: auto;
+  margin: 139px auto 60px;
 }
 
 .u-section-7 .u-container-layout-9 {
