@@ -1146,7 +1146,8 @@
   width: 268px;
   min-height: 80px;
   height: auto;
-  margin: 59px 121px 60px auto;
+  animation-duration: 1000ms;
+  margin: 44px 102px 60px auto;
 }
 
 .u-section-4 .u-container-layout-5 {
