@@ -83,6 +83,10 @@
     margin-top: 206px;
     margin-left: 303px;
   }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 991px) {
@@ -196,7 +200,6 @@
   }
 
   .u-section-1 .u-btn-2 {
-    font-size: 1rem;
     margin-top: 419px;
     margin-right: auto;
   }
