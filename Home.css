@@ -1786,7 +1786,7 @@
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 1422px;
+  min-height: 1456px;
 }
 
 .u-section-7 .u-group-1 {
@@ -1795,7 +1795,7 @@
   box-shadow: 2px 2px 8px 5px rgba(128,128,128,0.25);
   background-image: none;
   animation-duration: 1000ms;
-  margin: 134px auto 0;
+  margin: 60px auto 0;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -2100,7 +2100,6 @@
   .u-section-7 .u-group-9 {
     background-position: 50% 44.61%;
     background-size: 115%;
-    margin-bottom: 0;
     margin-left: 176px;
   }
 
@@ -2279,7 +2278,6 @@
 @media (max-width: 767px) {
   .u-section-7 .u-group-1 {
     width: 540px;
-    margin-top: 0;
   }
 
   .u-section-7 .u-container-layout-1 {
@@ -2313,7 +2311,6 @@
 
   .u-section-7 .u-group-5 {
     width: 540px;
-    margin-top: 0;
   }
 
   .u-section-7 .u-container-layout-5 {
@@ -2343,7 +2340,6 @@
 
   .u-section-7 .u-group-9 {
     width: 540px;
-    margin-top: 0;
   }
 
   .u-section-7 .u-container-layout-9 {
@@ -2379,7 +2375,6 @@
 
   .u-section-7 .u-group-1 {
     min-height: 303px;
-    margin-top: 60px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -2624,7 +2619,7 @@
     margin-right: auto;
   }
 }.u-section-8 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 340px;
 }
 
 .u-section-8 .u-group-1 {
@@ -2632,7 +2627,7 @@
   min-height: 102px;
   box-shadow: 2px 2px 8px 5px rgba(128,128,128,0.2);
   height: auto;
-  margin: 207px auto 0 91px;
+  margin: 108px auto 0 91px;
 }
 
 .u-section-8 .u-container-layout-1 {
@@ -2760,7 +2755,6 @@
   }
 
   .u-section-8 .u-group-5 {
-    margin-top: 20px;
     margin-left: 486px;
   }
 
@@ -2786,12 +2780,7 @@
   }
 
   .u-section-8 .u-group-5 {
-    margin-bottom: 60px;
     margin-left: 376px;
-  }
-
-  .u-section-8 .u-text-3 {
-    margin-bottom: 0;
   }
 }
 
@@ -2811,7 +2800,6 @@
   }
 
   .u-section-8 .u-group-3 {
-    margin-top: 20px;
     margin-left: 121px;
   }
 
@@ -2846,20 +2834,16 @@
   .u-section-8 .u-group-1 {
     min-height: 108px;
     animation-duration: 1000ms;
-    margin-top: 60px;
     margin-left: 21px;
   }
 
   .u-section-8 .u-group-3 {
     animation-duration: 1000ms;
-    margin-top: 41px;
-    margin-bottom: 0;
     margin-left: 21px;
   }
 
   .u-section-8 .u-group-5 {
     animation-duration: 1000ms;
-    margin-top: 41px;
     margin-left: 21px;
   }
 
