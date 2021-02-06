@@ -1614,14 +1614,14 @@
 
 .u-section-6 .u-text-2 {
   font-size: 1.125rem;
-  margin: 33px 0 0;
+  margin: 48px 0 0;
 }
 
 .u-section-6 .u-btn-1 {
   border-style: solid;
   font-size: 1.25rem;
   font-weight: normal;
-  margin: 50px 0 0 auto;
+  margin: 34px 0 0 auto;
   padding: 13px 36px 14px 35px;
 }
 
@@ -2828,7 +2828,7 @@
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 503px;
+    min-height: 502px;
   }
 
   .u-section-8 .u-group-1 {
