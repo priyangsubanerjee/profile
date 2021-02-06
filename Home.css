@@ -1858,7 +1858,6 @@
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   animation-duration: 1000ms;
-  height: auto;
   margin: 139px auto 0;
 }
 
@@ -1934,7 +1933,6 @@
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   animation-duration: 1000ms;
-  height: auto;
   margin: 139px auto 60px;
 }
 
