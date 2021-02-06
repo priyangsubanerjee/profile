@@ -38,7 +38,14 @@
 .u-section-1 .u-icon-3 {
   height: 83px;
   width: 83px;
-  margin: 200px auto 60px 316px;
+  margin: 200px auto 0 316px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-style: none none solid;
+  margin: -1px 0 60px auto;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -186,5 +193,11 @@
     width: 107px;
     margin-top: -177px;
     margin-left: 117px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 1rem;
+    margin-top: 419px;
+    margin-right: auto;
   }
 }
