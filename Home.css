@@ -96,14 +96,14 @@
   animation-duration: 1000ms;
   background-image: url("images/mobileport2.png");
   background-position: 50% 50%;
-  margin: -413px 30px 0 auto;
+  margin: -413px auto 0 751px;
 }
 
 .u-section-1 .u-icon-7 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: 19px 138px 0 auto;
+  margin: 19px auto 0 931px;
 }
 
 .u-section-1 .u-icon-8 {
@@ -111,21 +111,21 @@
   width: 53px;
   background-image: none;
   animation-duration: 1000ms;
-  margin: -54px auto 0 876px;
+  margin: -54px auto 0 858px;
 }
 
 .u-section-1 .u-icon-9 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: -52px 284px 0 auto;
+  margin: -52px auto 0 785px;
 }
 
 .u-section-1 .u-icon-10 {
   height: 53px;
   width: 53px;
   background-image: none;
-  margin: -53px 66px 60px auto;
+  margin: -53px auto 60px 1004px;
 }
 
 @media (max-width: 1199px) {
@@ -209,12 +209,11 @@
     width: 163px;
     height: 163px;
     margin-top: -704px;
-    margin-right: 203px;
+    margin-left: -68px;
   }
 
   .u-section-1 .u-icon-7 {
     margin-top: -389px;
-    margin-right: auto;
     margin-left: 470px;
   }
 
@@ -225,13 +224,11 @@
 
   .u-section-1 .u-icon-9 {
     margin-top: -53px;
-    margin-right: auto;
     margin-left: 470px;
   }
 
   .u-section-1 .u-icon-10 {
     margin-top: -740px;
-    margin-right: auto;
     margin-left: 470px;
   }
 }
@@ -318,7 +315,7 @@
   .u-section-1 .u-image-2 {
     width: 278px;
     height: 278px;
-    margin-left: 222px;
+    margin-left: -143px;
   }
 
   .u-section-1 .u-icon-7 {
@@ -407,8 +404,7 @@
   .u-section-1 .u-image-2 {
     width: 219px;
     height: 219px;
-    margin-right: 30px;
-    margin-left: 161px;
+    margin-left: -212px;
   }
 
   .u-section-1 .u-icon-7 {
@@ -430,12 +426,12 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 734px;
+    min-height: 100vh;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 284px;
-    margin-top: 270px;
+    margin-top: 179px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -507,14 +503,13 @@
     height: 155px;
     object-position: 50% 100%;
     margin-top: -356px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 93px;
   }
 
   .u-section-1 .u-icon-7 {
     height: 50px;
     width: 50px;
-    margin-top: 272px;
+    margin-top: 253px;
     margin-left: 182px;
   }
 
