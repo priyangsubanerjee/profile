@@ -572,7 +572,7 @@
   border-style: solid;
   font-size: 1.25rem;
   font-weight: 500;
-  margin: -224px auto 0 251px;
+  margin: -224px auto 0 502px;
   padding: 32px 153px 33px 152px;
 }
 
@@ -580,7 +580,7 @@
   border-style: solid;
   font-size: 1.25rem;
   font-weight: 500;
-  margin: 25px auto 0 251px;
+  margin: 25px auto 0 502px;
   padding: 30px 182px 32px 181px;
 }
 
@@ -644,6 +644,10 @@
   .u-section-2 .u-icon-1 {
     height: 141px;
   }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 189px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -667,11 +671,12 @@
   .u-section-2 .u-btn-1 {
     margin-top: 20px;
     margin-right: 92px;
-    margin-left: 0;
+    margin-left: 49px;
   }
 
   .u-section-2 .u-btn-2 {
     margin-right: 92px;
+    margin-left: 49px;
   }
 }
 
